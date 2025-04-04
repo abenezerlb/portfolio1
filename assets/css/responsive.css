@@ -37,7 +37,11 @@
   .counter-section .counter p {
     font-size: 14px;
   }
+  #about{
+  margin:200px;
 }
+}
+
 
 /* mobile or only mobile */
 @media (max-width: 767px) {
@@ -78,4 +82,7 @@
   .footer-right-area {
     margin-top: 20px;
   }
+  #about{
+  margin:50px;
+}
 }
